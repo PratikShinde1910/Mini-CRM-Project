@@ -33,10 +33,10 @@ Forms & Validation: Formik + Yup
 Charts: react-native-chart-kit 
 
 
-! [homescreen] (https://github.com/PratikShinde1910/Mini-CRM-Project/blob/main/HomeScreen.png?raw=true<img width="100" height="200" alt="image" src="https://github.com/user-attachments/assets/0ba61635-7c26-4d20-9c18-f24a0b3c8305" />
+! [homescreen] (https://github.com/PratikShinde1910/Mini-CRM-Project/blob/main/HomeScreen.png?raw=true<img width="500" height="1200" alt="image" src="https://github.com/user-attachments/assets/0ba61635-7c26-4d20-9c18-f24a0b3c8305" />
 )
 
-! [leadscreen] (https://github.com/PratikShinde1910/Mini-CRM-Project/blob/main/LeadsScreen.png?raw=true<img width="100" height="200" alt="image" src="https://github.com/user-attachments/assets/61723509-8789-42cb-bc45-a030e5765196" />
+! [leadscreen] (https://github.com/PratikShinde1910/Mini-CRM-Project/blob/main/LeadsScreen.png?raw=true<img width="500" height="1200" alt="image" src="https://github.com/user-attachments/assets/61723509-8789-42cb-bc45-a030e5765196" />
 )
 
 
